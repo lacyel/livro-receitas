@@ -1,7 +1,5 @@
 # Bolo de milho
 
-**Negrito**
-
 ## INGREDIENTES
 
 - 1 lata de milho (sem o líquido)
